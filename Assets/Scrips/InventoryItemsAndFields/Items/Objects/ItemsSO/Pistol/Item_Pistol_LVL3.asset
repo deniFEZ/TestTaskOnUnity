@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c16fee88f318d74a9abc34c0b084d66, type: 3}
+  m_Name: Item_Pistol_LVL3
+  m_EditorClassIdentifier: 
+  ID: 11
+  Cost: 15
+  Level: 3
+  ChanceToBeSpawnedInPercentage: 0.1
+  Damage: 12
+  AttackSpeed: 1
+  NameItem: Pistol
+  DescriptionItem: Useful Item
+  x: 2
+  y: 2
+  Prefab: {fileID: 6477823463761384569, guid: df83fdee7c9bd6540a76708701e1fba6, type: 3}
+  NextLevelItem: {fileID: 0}
+  FormOfActivation: 1
+  FormOfWeapon: 1
+  Type: 1

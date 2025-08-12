@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c16fee88f318d74a9abc34c0b084d66, type: 3}
+  m_Name: Item_Coffee_LVL1
+  m_EditorClassIdentifier: 
+  ID: 2
+  Cost: 5
+  Level: 1
+  ChanceToBeSpawnedInPercentage: 20
+  Damage: 3
+  AttackSpeed: 2
+  NameItem: Coffee
+  DescriptionItem: I'm so refreshed!
+  x: 1
+  y: 1
+  Prefab: {fileID: 6528102895536866328, guid: 92f88f88b96d4a44fadd847b110e2861, type: 3}
+  NextLevelItem: {fileID: 8308172708785216234, guid: d87878e2c535654499a71dadd3c9a5df, type: 3}
+  FormOfActivation: 0
+  FormOfWeapon: 0
+  Type: 0

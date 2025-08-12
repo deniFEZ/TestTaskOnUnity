@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 2738511bd7b18fe4d87fbdb7321362f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2555843653356401960
+    second: Spritesheet_Mugs_Blank_0
+  - first:
+      213: 8250898704700812425
+    second: Spritesheet_Mugs_Blank_1
+  - first:
+      213: 7637265962802692031
+    second: Spritesheet_Mugs_Blank_2
+  - first:
+      213: 8876006075133062658
+    second: Spritesheet_Mugs_Blank_3
+  - first:
+      213: -5765719896564921279
+    second: Spritesheet_Mugs_Blank_4
+  - first:
+      213: 7143393310253580602
+    second: Spritesheet_Mugs_Blank_5
+  - first:
+      213: -840632570293293042
+    second: Spritesheet_Mugs_Blank_6
+  - first:
+      213: -6824053824888142284
+    second: Spritesheet_Mugs_Blank_7
+  - first:
+      213: 3772120311002571333
+    second: Spritesheet_Mugs_Blank_8
+  - first:
+      213: 4616668213653218807
+    second: Spritesheet_Mugs_Blank_9
+  - first:
+      213: -6371637304257107058
+    second: Spritesheet_Mugs_Blank_10
+  - first:
+      213: -2223289264574638355
+    second: Spritesheet_Mugs_Blank_11
+  - first:
+      213: 8014623651005180477
+    second: Spritesheet_Mugs_Blank_12
+  - first:
+      213: 8197456323529194446
+    second: Spritesheet_Mugs_Blank_13
+  - first:
+      213: 7980666034567234556
+    second: Spritesheet_Mugs_Blank_14
+  - first:
+      213: -5480020317903519213
+    second: Spritesheet_Mugs_Blank_15
+  - first:
+      213: -6264023793664746844
+    second: Spritesheet_Mugs_Blank_16
+  - first:
+      213: -1612240834467676711
+    second: Spritesheet_Mugs_Blank_17
+  - first:
+      213: 4497881391219844296
+    second: Spritesheet_Mugs_Blank_18
+  - first:
+      213: -7022603875877043508
+    second: Spritesheet_Mugs_Blank_19
+  - first:
+      213: -7287326184274883601
+    second: Spritesheet_Mugs_Blank_20
+  - first:
+      213: 7683206956411899331
+    second: Spritesheet_Mugs_Blank_21
+  - first:
+      213: -6430458495293087704
+    second: Spritesheet_Mugs_Blank_22
+  - first:
+      213: 8949798322575296283
+    second: Spritesheet_Mugs_Blank_23
+  - first:
+      213: -6517231704924966608
+    second: Spritesheet_Mugs_Blank_24
+  - first:
+      213: -7154822832587307893
+    second: Spritesheet_Mugs_Blank_25
+  - first:
+      213: 3211803141807744937
+    second: Spritesheet_Mugs_Blank_26
+  - first:
+      213: 2470928596118529701
+    second: Spritesheet_Mugs_Blank_27
+  - first:
+      213: -1949772048578989242
+    second: Spritesheet_Mugs_Blank_28
+  - first:
+      213: -4844386887995761179
+    second: Spritesheet_Mugs_Blank_29
+  - first:
+      213: -8256861172379383887
+    second: Spritesheet_Mugs_Blank_30
+  - first:
+      213: -8229262625097962031
+    second: Spritesheet_Mugs_Blank_31
+  - first:
+      213: -6804609380842886330
+    second: Spritesheet_Mugs_Blank_32
+  - first:
+      213: 7942173183851110123
+    second: Spritesheet_Mugs_Blank_33
+  - first:
+      213: -5294888540764839309
+    second: Spritesheet_Mugs_Blank_34
+  - first:
+      213: -8102252872174470603
+    second: Spritesheet_Mugs_Blank_35
+  - first:
+      213: 5053077672286296673
+    second: Spritesheet_Mugs_Blank_36
+  - first:
+      213: -1453122568894524321
+    second: Spritesheet_Mugs_Blank_37
+  - first:
+      213: 8826604340523320805
+    second: Spritesheet_Mugs_Blank_38
+  - first:
+      213: -2770758954369799042
+    second: Spritesheet_Mugs_Blank_39
+  - first:
+      213: -2902907801185440301
+    second: Spritesheet_Mugs_Blank_40
+  - first:
+      213: -4317487830439331037
+    second: Spritesheet_Mugs_Blank_41
+  - first:
+      213: 4611454353640233597
+    second: Spritesheet_Mugs_Blank_42
+  - first:
+      213: 8101144542686123408
+    second: Spritesheet_Mugs_Blank_43
+  - first:
+      213: 8985064897769637848
+    second: Spritesheet_Mugs_Blank_44
+  - first:
+      213: 8593484194079658887
+    second: Spritesheet_Mugs_Blank_45
+  - first:
+      213: 6664076046456595444
+    second: Spritesheet_Mugs_Blank_46
+  - first:
+      213: -6586953450826446119
+    second: Spritesheet_Mugs_Blank_47
+  - first:
+      213: 4705428591773607477
+    second: Spritesheet_Mugs_Blank_48
+  - first:
+      213: -7814066813611441648
+    second: Spritesheet_Mugs_Blank_49
+  - first:
+      213: -2824151269473999889
+    second: Spritesheet_Mugs_Blank_50
+  - first:
+      213: -7814600846401927575
+    second: Spritesheet_Mugs_Blank_51
+  - first:
+      213: -1962201625596622941
+    second: Spritesheet_Mugs_Blank_52
+  - first:
+      213: -6203300141269516611
+    second: Spritesheet_Mugs_Blank_53
+  - first:
+      213: -872553716654929723
+    second: Spritesheet_Mugs_Blank_54
+  - first:
+      213: 9216416866356393926
+    second: Spritesheet_Mugs_Blank_55
+  - first:
+      213: -948968602586901362
+    second: Spritesheet_Mugs_Blank_56
+  - first:
+      213: -158098383803846062
+    second: Spritesheet_Mugs_Blank_57
+  - first:
+      213: -5870654089954860578
+    second: Spritesheet_Mugs_Blank_58
+  - first:
+      213: -4347186320037596442
+    second: Spritesheet_Mugs_Blank_59
+  - first:
+      213: 3811417778223227895
+    second: Spritesheet_Mugs_Blank_60
+  - first:
+      213: -1463783545658596543
+    second: Spritesheet_Mugs_Blank_61
+  - first:
+      213: -6415405410816534429
+    second: Spritesheet_Mugs_Blank_62
+  - first:
+      213: -2214452418185128342
+    second: Spritesheet_Mugs_Blank_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825beb3e24e287320800000000000000
+      internalID: 2555843653356401960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c2c6328a4118270800000000000000
+      internalID: 8250898704700812425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf3900ede40df960800000000000000
+      internalID: 7637265962802692031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ee38c8f78ed2b70800000000000000
+      internalID: 8876006075133062658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c88da5d4c0cffa0800000000000000
+      internalID: -5765719896564921279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31019c4e5e622360800000000000000
+      internalID: 7143393310253580602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 223
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e007b0591297554f0800000000000000
+      internalID: -840632570293293042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436856f93371c41a0800000000000000
+      internalID: -6824053824888142284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5422853ff63495430800000000000000
+      internalID: 3772120311002571333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f523a8b743b11040800000000000000
+      internalID: 4616668213653218807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ba02251a56397a0800000000000000
+      internalID: -6371637304257107058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6d610813a4521e0800000000000000
+      internalID: -2223289264574638355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aab9e4fb9a93f60800000000000000
+      internalID: 8014623651005180477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbbcb1281733c170800000000000000
+      internalID: 8197456323529194446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c76d997501ce60800000000000000
+      internalID: 7980666034567234556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31200752e8e03f3b0800000000000000
+      internalID: -5480020317903519213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa94024c87b119a0800000000000000
+      internalID: -6264023793664746844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddbc29c08b20a9e0800000000000000
+      internalID: -1612240834467676711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4af756b4fab6e30800000000000000
+      internalID: 4497881391219844296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc241147bf2ba8e90800000000000000
+      internalID: -7022603875877043508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb84eff1773eda90800000000000000
+      internalID: -7287326184274883601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdcdbcf40c30aa60800000000000000
+      internalID: 7683206956411899331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820a92d811c62c6a0800000000000000
+      internalID: -6430458495293087704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17cc740822143c70800000000000000
+      internalID: 8949798322575296283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031b80d4b442e85a0800000000000000
+      internalID: -6517231704924966608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8487c8aa86f4bc90800000000000000
+      internalID: -7154822832587307893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a72febc0fd929c20800000000000000
+      internalID: 3211803141807744937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6eff477708a4220800000000000000
+      internalID: 2470928596118529701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643b673f6a401f4e0800000000000000
+      internalID: -1949772048578989242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edd372cac745ccb0800000000000000
+      internalID: -4844386887995761179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b78c9ca28cb96d80800000000000000
+      internalID: -8256861172379383887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd23a33e39cbcd80800000000000000
+      internalID: -8229262625097962031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ba19b02db2191a0800000000000000
+      internalID: -6804609380842886330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee14186e64483e60800000000000000
+      internalID: 7942173183851110123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372ec6afce6c486b0800000000000000
+      internalID: -5294888540764839309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af6a9b0f30f8f80800000000000000
+      internalID: -8102252872174470603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a151fde53202640800000000000000
+      internalID: 5053077672286296673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5450f9f8b875dbe0800000000000000
+      internalID: -1453122568894524321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e540d1e1e56e7a70800000000000000
+      internalID: 8826604340523320805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c2e8e39694c89d0800000000000000
+      internalID: -2770758954369799042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dda1ae2cbcc6b7d0800000000000000
+      internalID: -2902907801185440301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b779871b33514c0800000000000000
+      internalID: -4317487830439331037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a97a65d4d2fff30800000000000000
+      internalID: 4611454353640233597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09596e43a0c0d6070800000000000000
+      internalID: 8101144542686123408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7046b6bec51bc70800000000000000
+      internalID: 8985064897769637848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7835d032850324770800000000000000
+      internalID: 8593484194079658887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32c314bdd8b7c50800000000000000
+      internalID: 6664076046456595444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dac4735cb07694a0800000000000000
+      internalID: -6586953450826446119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536e1a0bf5a0d4140800000000000000
+      internalID: 4705428591773607477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012858b32abde8390800000000000000
+      internalID: -7814066813611441648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3a80722699ec8d0800000000000000
+      internalID: -2824151269473999889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9660fb80fe5fc8390800000000000000
+      internalID: -7814600846401927575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a78e98840cd4c4e0800000000000000
+      internalID: -1962201625596622941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeff74536379e9a0800000000000000
+      internalID: -6203300141269516611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c80657840114e3f0800000000000000
+      internalID: -872553716654929723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7771d2f4a47ef70800000000000000
+      internalID: 9216416866356393926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e841fc3751694d2f0800000000000000
+      internalID: -948968602586901362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252fec98b525ecdf0800000000000000
+      internalID: -158098383803846062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1eb01953f378ea0800000000000000
+      internalID: -5870654089954860578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b8b50311bba3c0800000000000000
+      internalID: -4347186320037596442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3aa998640e4e430800000000000000
+      internalID: 3811417778223227895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14325f4ee989fabe0800000000000000
+      internalID: -1463783545658596543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3685926e4c6e7f6a0800000000000000
+      internalID: -6415405410816534429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Mugs_Blank_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a661212224fa441e0800000000000000
+      internalID: -2214452418185128342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
